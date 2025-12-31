@@ -41,7 +41,7 @@ The application generates interactive visualizations, detailed reports, and pers
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
