@@ -21,7 +21,7 @@ Export analysis reports as CSV and PDF files
 
 
 **********************************************************
-# 🎯 AI Skills Compass — Semantic Skill Gap Analyzer
+#  AI Skills Compass — Semantic Skill Gap Analyzer
 
 ## Overview
 
@@ -29,7 +29,7 @@ The **AI Skills Compass** is a Streamlit application designed to perform a compr
 
 The application generates interactive visualizations, detailed reports, and personalized growth roadmaps to guide users in bridging their identified skill gaps.
 
-## ✨ Key Features
+##  Key Features
 
 * **Semantic Similarity Matching:** Uses the `all-MiniLM-L6-v2` Sentence-BERT model for accurate, contextual skill comparison.
 * **Flexible Input:** Supports **Manual Entry**, **JSON upload** (for structured skill lists), and **PDF upload** (for basic text and keyword extraction).
