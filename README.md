@@ -1,4 +1,4 @@
-# Infosys-Skill-Gap-AI-Analyzing-Resume-and-Job-Post-for-Skill-Gap
+# Skill_Gap_Analyzer_JD & Resume_Infosys_Internship
 
 SkillGapAI: Automated Skill Gap Analysis Using NLP and BERT
 Project Overview
